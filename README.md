@@ -1,7 +1,7 @@
 # NYC-Citibike
 
 Overall Objective
-Utilizing the data bike rental program in NYC, we need to determine if such an endeavour should be implimented in Des Moines, IA. By creating various visulaizations within Tableau we can help pin point exact areas of interest and concern that will potentially influence the deision making process. Getting the data into a more concise and usable format was the first task that needed to be accomplished utilizing Python Pandas. Once done, the visulaizations that were created utilzing this cleaner form of data were put into a story format by which to help guide the user in understanding their impact.
+Utilizing the data bike rental program in NYC, we need to determine if such an endeavour should be implimented in Des Moines, IA. By creating various visulaizations within Tableau we can help pin point exact areas of interest and concern that will potentially influence the deision making process. Getting the data into a more concise and usable format was the first task that needed to be accomplished utilizing Python Pandas. Once done, the visulaizations that were created utilzing this cleaner form of data were put into a story format by which to help guide the user in understanding their impact. The link for the Tableau story can be found here, https://public.tableau.com/app/profile/andrew.taylor8736/viz/CitibikeChallenge_16607632149710/Story1
 
 Visualizations of Interest
 
